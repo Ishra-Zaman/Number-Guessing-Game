@@ -1,0 +1,68 @@
+#number-guess,
+#result,
+#history {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #f9c0d4;
+}
+
+.banner {
+  background-color: #f6b3c9;
+  color: #fff;
+  font-family: Georgia, serif;
+  font-size: 60px;
+}
+
+.description {
+  color: #fff;
+  font-family: Georgia, serif;
+  font-size: 25px;
+}
+
+.btn-primary {
+  background-color: #f48fb1;
+  border-color: #f48fb1;
+}
+
+.btn-primary:hover {
+  background-color: #feabc7;
+  border-color: #feabc7;
+}
+
+.btn-dark {
+  background-color: #f48fb1;
+  border-color: #f48fb1;
+}
+
+.btn-dark:hover {
+  background-color: #feabc7;
+  border-color: #feabc7;
+}
+
+.navbar-brand {
+  margin: auto;
+  font-size: 30px;
+  font-family: Georgia, serif;
+}
+
+.lastResult {
+  text-decoration-line: underline;
+  font-weight: bold;
+}
+
+#number-guess {
+  text-align: center;
+  color: black;
+}
+
+.card {
+  margin-top: -175px;
+  margin-left: -80px;
+}
+
+.card-content {
+  text-align: left;
+}
